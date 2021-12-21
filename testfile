@@ -1,5 +1,5 @@
 #!/bin /bash
 echo "This file is basic scritp for user creation"
-
-echo "succesfully pushed into remote"
+read -p "Enter the Username:" USERNAME
+echo $USERNAME
 
